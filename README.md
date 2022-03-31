@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hunss 🦊
+
+
+### Introduce myself 😝
+ - 🧿 Name: Taehun Kim
+ - 🔮 Birth date: 1996.12.15
+ - 🏫 University: Inha Univ.
+ - 📖 Major: Industrial Engineering & Bigdata Analysis
+ - 💌 instagram: @xognx
+
+
+
 
 <!--
 **kth5954/kth5954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
