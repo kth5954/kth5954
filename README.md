@@ -8,7 +8,7 @@
  - 📖 Major: Industrial Engineering & Bigdata Analysis
  - 💌 instagram: @xognx
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kth5954)](https://solved.ac/kth5954/)
 
 
 <!--
