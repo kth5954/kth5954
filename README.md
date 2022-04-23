@@ -6,7 +6,7 @@
  - 🔮 Birth date: 1996.12.15
  - 🏫 University: Inha Univ.
  - 📖 Major: Industrial Engineering & Bigdata Analysis
- - 💌 instagram: @xognx
+ - 💌 instagram: @tae_hunss
 
 <br/>
 <br/>
