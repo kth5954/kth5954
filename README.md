@@ -4,6 +4,7 @@
 ### Introduce myself 😝
  - 🧿 Name: Taehun Kim
  - 🔮 Birth date: 1996.12.15
+ - 🥷🏻 Job Objectives: Full Stack Developer
  - 🏫 University: Inha Univ.
  - 📖 Major: Industrial Engineering & Bigdata Analysis
  - 💌 instagram: @tae_hunss
