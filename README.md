@@ -7,7 +7,7 @@
  - 🥷🏻 Job Objectives: Backend Developer
  - 🏫 University: Inha Univ.
  - 📖 Major: Industrial Engineering & Bigdata Analysis
-
+ - 🌍 Blog: https://velog.io/@itscool
 <br/>
 <br/>
 <br/>
