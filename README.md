@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0078bd,100:d4efff&height=200&section=header&text=Hun's%20Profile%20🦊&fontSize=40)
-
 ## 🧬 INTRODUCTION 🩸
  🥷🏻 직무(Job Objectives): 백앤드 개발자(Backend Developer)</br>
  🏫 대학교(University): 인하대학교(Inha Univ.)</br>
