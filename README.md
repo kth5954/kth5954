@@ -11,7 +11,7 @@
 <br/>
 <br/>
 
- <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=&logoColor=white"/></a>
+ <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kth5954&show_icons=true&theme=tokyonight)
