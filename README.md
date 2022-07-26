@@ -31,11 +31,12 @@
 ### ALGORITHM
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
+</br>
+</br>
 
 
 
-
-
+## 📊 STATS 📈
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kth5954&show_icons=true&theme=tokyonight)
 
