@@ -1,4 +1,12 @@
-## 🧬 INTRODUCTION 🩸
+## 😄 INTRO 😄
+
+😀 안녕하세요! 배움을 사랑하는 성장형 백앤드 **개발자** **김태훈** 입니다.</br>
+😀 코딩하는 것을 좋아하며, 빠르게 적응하고, 적용할 수 있는 개발자가 되고자 뭐든 게을리하지 않습니다.</br>
+😀 백앤드 주니어의 필수 소양은 깊이있는 기본기라 생각하기 때문에 기본에 충실하고자 합니다.</br>
+</br>
+</br>
+
+## 🪪 RECORD 📨
  🥷🏻 직무(Job Objectives): 백앤드 개발자(Backend Developer)</br>
  🏫 대학교(University): 인하대학교(Inha Univ.)</br>
  📖 전공(Major): 산업경영공학과 & 빅데이터분석 연계 전공 (Industrial Engineering & Bigdata Analysis)</br>
