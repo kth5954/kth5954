@@ -6,6 +6,9 @@
  📖 전공(Major): 산업경영공학과 & 빅데이터분석 연계 전공 (Industrial Engineering & Bigdata Analysis)</br>
  🌍 블로그(Blog): https://velog.io/@itscool</br>
  💡 노션(Notion): https://www.notion.so/c804c9257c4b49d99a2df4ed2a2b2e1f</br>
+ 
+</br>
+</br>
 
 ## ⚔️ STACKS 🛡
 
