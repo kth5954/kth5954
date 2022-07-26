@@ -1,15 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:0078bd,100:d4efff&height=200&section=header&text=Hun's%20Profile%20🦊&fontSize=40)
 
-## 저를 소개합니다 😝 (Introduce myself 😝)
- - 🧿 이름(Name): 김태훈 (Taehun Kim)
- - 🔮 생년월일(Birth date): 1996.12.15
- - 🥷🏻 직무(Job Objectives): 백앤드 개발자(Backend Developer)
- - 🏫 대학교(University): 인하대학교(Inha Univ.)
- - 📖 전공(Major): 산업경영공학과 & 빅데이터분석 연계 전공 (Industrial Engineering & Bigdata Analysis)
- - 🌍 블로그(Blog): https://velog.io/@itscool
-<br/>
-<br/>
-
+## 자기소개 (Introduce myself)
+ 🥷🏻 직무(Job Objectives): 백앤드 개발자(Backend Developer)
+ 🏫 대학교(University): 인하대학교(Inha Univ.)
+ 📖 전공(Major): 산업경영공학과 & 빅데이터분석 연계 전공 (Industrial Engineering & Bigdata Analysis)
+ 🌍 블로그(Blog): https://velog.io/@itscool
+ 💡 노션(Notion): https://www.notion.so/c804c9257c4b49d99a2df4ed2a2b2e1f
 
 ## 🛠 STACKS 🛠
 
