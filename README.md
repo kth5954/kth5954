@@ -48,8 +48,9 @@ I stick to the basics because I think that the essential of backend is in-depth 
 
 ## 🏢 Career & History 💻
 - (주)아임웹 백앤드 개발 인턴(2022.08.09 ~ 2022.09.16)
-- Elice SW Engineer Track 2기(2022.04.04 ~ 2022.07.23)
-
+(Intern Backend Developer of Imweb Corp.)
+- 엘리스 소프트웨어 엔지니어 트랙 2기(2022.04.04 ~ 2022.07.23)
+(Elice SW Engineer Track 2nd)
 </br>
 </br>
 
