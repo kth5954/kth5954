@@ -1,8 +1,11 @@
 ## 😄 INTRO 😄
 
 😀 안녕하세요! 배움을 사랑하는 성장형 백앤드 **개발자** **김태훈** 입니다.</br>
+hello! I am Taehun Kim, a growing backend developer, who loves learning.</br>
 😀 빠르게 적응하고, 적용할 수 있는 개발자가 되고자 뭐든 게을리하지 않습니다.</br>
+I never neglect anything to become a developer, who adapt and apply quickly.</br>
 😀 백앤드 개발자의 필수 소양은 깊이있는 기본기라 생각하기 때문에 기본에 충실하고자 합니다.</br>
+I stick to the basics because I think that the essential of backend is in-depth basics.</br>
 </br>
 </br>
 
