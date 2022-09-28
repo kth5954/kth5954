@@ -5,10 +5,14 @@
 </br>
 </br>
 
+## 🏢 Career 💻
+- (주)아임웹 백앤드 개발 인턴(2022.08.09 ~ 2022.09.16) </br>
+(Intern Backend Developer of Imweb Corp.) </br>
+
+</br>
+</br>
 ## 🪪 RECORD 📨
  🥷🏻 직무(Job Objectives): 백앤드 개발자(Backend Developer)</br>
- 🏫 대학교(University): 인하대학교(Inha Univ.)</br>
- 📖 전공(Major): 산업경영공학과 & 빅데이터분석 연계 전공 (Industrial Engineering & Bigdata Analysis)</br>
  🌍 블로그(Blog): https://velog.io/@itscool</br>
  💡 노션(Notion): https://www.notion.so/c804c9257c4b49d99a2df4ed2a2b2e1f</br>
  
@@ -33,11 +37,12 @@
 </br>
 </br>
 
-## 🏢 Career & History 💻
-- (주)아임웹 백앤드 개발 인턴(2022.08.09 ~ 2022.09.16) </br>
-(Intern Backend Developer of Imweb Corp.) </br>
-- 엘리스 소프트웨어 엔지니어 트랙 2기(2022.04.04 ~ 2022.07.23) </br>
-(Elice SW Engineer Track 2nd) </br>
+
+## 🧑🏻‍💻 Educations 💻
+ 🏫 대학교(University): 인하대학교(Inha Univ.)</br>
+ 📖 전공(Major): 산업경영공학과 & 빅데이터분석 연계 전공 (Industrial Engineering & Bigdata Analysis)</br>
+
+
 </br>
 </br>
 
