@@ -7,7 +7,7 @@
 
 ## 🏢 Career 💻
 - (주)아임웹 백앤드 개발 인턴(2022.08.09 ~ 2022.09.16) </br>
-(Intern Backend Developer of Imweb Corp.) </br>
+(Intern Backend Developer of Imweb Corp.): 대용량 E-Commerce 플랫폼 백앤드 설계(할인 로직 고도화) </br>
 
 </br>
 </br>
