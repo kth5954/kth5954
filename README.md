@@ -30,9 +30,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 
-### ALGORITHM
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=docker&logoColor=white"/></a>
-
 </br>
 </br>
 
