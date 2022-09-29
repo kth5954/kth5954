@@ -16,8 +16,19 @@
  🌍 블로그(Blog): https://velog.io/@itscool</br>
  💡 노션(Notion): https://www.notion.so/c804c9257c4b49d99a2df4ed2a2b2e1f</br>
  
-</br>
-</br>
+
+## 📊 STATS 📈
+
+<table>
+<tr>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=kth5954&show_icons=true&theme=tokyonight">
+</td>
+<td valign="top" width="50%">
+<img align="" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kth5954">
+</td>
+
+
 
 ## ⚔️ STACKS 🛡
 
@@ -47,18 +58,3 @@
 ## 🧑🏻‍💻 Educations 💻
  🏫 대학교(University): 인하대학교(Inha Univ.)</br>
  📖 전공(Major): 산업경영공학과 & 빅데이터분석 연계 전공 (Industrial Engineering & Bigdata Analysis)</br>
-
-
-</br>
-</br>
-
-## 📊 STATS 📈
-
-<table>
-<tr>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=kth5954&show_icons=true&theme=tokyonight">
-</td>
-<td valign="top" width="50%">
-<img align="" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kth5954">
-</td>
