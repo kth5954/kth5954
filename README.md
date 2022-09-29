@@ -57,8 +57,8 @@
 <table>
 <tr>
 <td valign="top" width="50%">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kth5954&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=kth5954&show_icons=true&theme=tokyonight">
 </td>
 <td valign="top" width="50%">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kth5954)](https://solved.ac/kth5954/)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kth5954)](https://solved.ac/kth5954/">
 </td>
