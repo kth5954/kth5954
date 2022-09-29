@@ -3,19 +3,19 @@
 - Nest와 타입스크립트를 주력으로 사용하고 있습니다. 또한 자바와 스프링 부트를 공부하고 있습니다.  
 - 웹 애플리케이션 개발 시 리소스 최적화나 대용량 트래픽, 데이터를 고려하여 설계하는 것에 관심이 많아 아직은 부족하지만 열심히 고민하며 배워가고 있습니다. 
 </br>
-</br>
 
 ## 🏢 Career 💻
 - (주)아임웹 백앤드 개발 인턴(2022.08.09 ~ 2022.09.16) </br>
 (Intern Backend Developer of Imweb Corp.)</br>
 
 </br>
-</br>
+
 ## 🪪 RECORD 📨
  🥷🏻 직무(Job Objectives): 백앤드 개발자(Backend Developer)</br>
  🌍 블로그(Blog): https://velog.io/@itscool</br>
  💡 노션(Notion): https://www.notion.so/c804c9257c4b49d99a2df4ed2a2b2e1f</br>
  
+</br>
 
 ## 📊 STATS 📈
 
@@ -29,33 +29,29 @@
 </td>
 </table>
 
+</br>
 
 ## ⚔️ STACKS 🛡
 
 ### Backend
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
-<a href="https://www.nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/nestJS-E0234E?style=flat-square&logo=nestJS&logoColor=white"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/nestJS-E0234E?style=flat-square&logo=nestJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/>
-</a>
+
 
 
 ### DevOps
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mySQL&logoColor=white"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
 
-
-
 </br>
-</br>
-
 
 ## 🧑🏻‍💻 Educations 💻
  🏫 대학교(University): 인하대학교(Inha Univ.)</br>
