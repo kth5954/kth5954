@@ -41,7 +41,7 @@
 <a><img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/></a>
 
 <a><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/jest-%#C21325.svg?style=flat-square&logo=jest&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/jest-%#C21325.svg?style=flat-square&logo=Jest&logoColor=white"></a>
 
 ### Database
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mySQL&logoColor=white"/></a>
