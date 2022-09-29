@@ -27,7 +27,7 @@
 <td valign="top" width="50%">
 <img align="" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kth5954">
 </td>
-
+</table>
 
 
 ## ⚔️ STACKS 🛡
