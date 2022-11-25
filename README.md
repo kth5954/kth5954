@@ -57,3 +57,6 @@
  🏫 대학교(University): 인하대학교(Inha Univ.)</br>
  📖 전공(Major): 산업경영공학과 & 빅데이터분석 연계 전공 (Industrial Engineering & Bigdata Analysis)</br>
  (2019.03 ~ 2023.02)
+
+## 🪪 Certifications📋
+- 정보처리기사
